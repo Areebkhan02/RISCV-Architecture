@@ -1,2 +1,2 @@
-# Computer Architecture Project
-Project Repository for Computer Architecture Project
+# RISCV Architecture
+Repository for RISCV Processor Single and Multi Cycle
